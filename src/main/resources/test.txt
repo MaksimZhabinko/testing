@@ -1,0 +1,3 @@
+Hello! I wanted to share #{item} with you
+item=this
+Client1@mail.ru
